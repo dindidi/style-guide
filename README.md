@@ -16,3 +16,14 @@ yarn start
 Documentação oficial: 
 - [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 - [React documentation](https://reactjs.org/).
+
+## FTP
+- File Transfer Protocol
+
+## SSH
+- Protocolo padrão de acesso do Linux
+- Criptografado por pardrão
+- Não consome muito recurso
+- Envia apenas a saída dos camandos
+- Já vem instalado na maioria das distribuições Linux
+- Server já vem instaladado
